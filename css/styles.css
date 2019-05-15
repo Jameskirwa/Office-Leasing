@@ -1,0 +1,115 @@
+
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+
+
+  h4{
+    font-size: 20pt;
+    color: blue;
+    text-align: center;
+  }
+
+
+  h2{
+    font-size: 10pt;
+    color: blue;
+    text-align: center;
+  }
+
+section{
+  text-align: center;
+  padding-left: 20px
+}
+
+
+
+    .t{
+     text-align: center;
+     color:white;
+  padding-left: 200%;
+  padding-top:200%;
+}
+
+.home{
+  background-image:url(../home.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  width: 1000px;
+  height: 600px;
+  margin: auto;
+}
+
+ui {
+  float: right;
+  list-style: none;
+  margin-top: 30px
+}
+
+li {
+  display: inline-block;
+
+}
+li a {
+  padding: 20px;
+
+
+}
+
+li.active a{
+  border: 1px solid white;
+}
+
+li a:hover{
+  border: 1px solid white;
+}
+
+.logo img {
+  width: 160px;
+  height: auto;
+}
+
+
+.welcome{
+  position: absolute;
+  width: 100px;
+  margin left:0px;
+  margin-right: 0px;
+  text-align: center;
+
+}
+h1 {
+  color: white;
+  font-size: 50px;
+  margin-top: 200px;
+
+}
+
+.button{
+  margin-top: 70px;
+  margin-left: 500px;
+
+}
+.btn-btn-one{
+  border:1px solid white;
+  padding:20px 40px;
+  color:red;
+  margin-right: 10px;
+  font-size: 25px;
+
+
+  }
+  h6{
+    color:blue;
+  }
+  .header {
+    background-color: grey;
+  }
+.l{
+  color:white;
+}
