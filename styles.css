@@ -8,7 +8,7 @@ h5{
   font-family: 'Montserrat Alternates', sans-serif;
   font-size: 70px;
 }
-p{
+span {
   font-family: 'Montserrat Alternates', sans-serif;
   font-size: 70px;
 }
@@ -17,21 +17,30 @@ p{
   display: flex;
   flex-direction: row;
   padding-top: 5%;
+  flex-wrap: nowrap;
+  text-align: center;
 
 
 }
 .mission{
   margin-left: 10%;
+  margin-right: 100px;
 
 }
+nav {
+  scroll-behavior: /;
+}
 .vision{
-  margin-left: 10%;
+  margin-left: 100px;
+  margin-right:100px;
+
 }
 .corevalues{
-  margin-left: 10%;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 .m{
-  background-color:deepskyblue;
+  background-color:;
 }
 .images{
 padding-top:2%;
@@ -40,25 +49,63 @@ margin-left: 35%;
 .skyview{
   display:flex;
   flex-direction: row;
-  padding-top: 5%
+  padding-left:50px;
+  margin-left: 50px;
+  padding-right: 0px;
+  background-color:lightgrey;
+  border-radius: 30px;
+  padding: 20px;
 }
 .img1{
-  margin-left: 15%;
+  margin-left: 10%;
 }
 .suite1{
-  margin-left: 8%;
-  padding-top:2%;
+  margin-left: 20%;
+  padding-top:3%;
+  margin: auto;
 }
 .springfield{
   display:flex;
   flex-direction: row;
-  padding-top: 8%;
+  padding-left:20px;
+  margin: 50px;
+  padding-right: 20px;
+  background-color:lightgrey;
+  border-radius: 30px;
+  padding: 20px;
 }
-
+.btn-btn-success {
+  border-radius:20px;
+  width:150px;
+  margin-top:200px;
+  background-color: lightblue;
+  margin-right: 50px;
+}
 .suite2{
-  margin-left:15%;
-  padding-top: 8%;
+  padding-top: 3%;
+  margin-left: 8%;
+  margin:auto;
 }
 .img2{
-  margin-left:5%;
+  margin-left: auto;
+  border-radius:30px;
+}
+.more{
+  padding-top: 25%;
+  margin-right: 5%;
+  display: flex;
+  flex-direction: column;
+  color: red;
+  border-radius: 25px;
+}
+
+.more1{
+  padding-top: 25%;
+  margin-right: 5%;
+  display: flex;
+  flex-direction: column;
+  color: red;
+}
+#foot {
+  background-color: deepskyblue;
 }
