@@ -4,11 +4,20 @@ background-color: #d0d5db;
 }
 h3{
 font-size: 60px;
-color: #2b2d30;
+color: blue;
 text-align: center;
 }
 h2{
   text-align: center;
   font-size: 55px;
   color: blue;
+}
+.form{
+  padding: 34px;
+  background-color: pink;
+}
+.over{
+  font-size: 40px;
+  color: blue;
+  font-family: sans-serif;
 }
