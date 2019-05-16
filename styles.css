@@ -1,9 +1,7 @@
 body{
 
 
-
   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryUejYek0zCyyO9br59rWmuAMMXkGrRc8Qr19RXjEN6ITpBtk");
-
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -113,6 +111,7 @@ margin-left: 35%;
 }
 #foot {
   background-color: deepskyblue;
+  
 h3{
   text-align: center;
   color: blue;
@@ -131,5 +130,4 @@ font-size: 50px;
   border-radius: 8px;
   cursor: pointer;
   float: left;
-
 }
