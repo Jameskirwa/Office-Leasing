@@ -1,6 +1,25 @@
 body{
-  /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6I_Mn9oZJW-ATzG2Dyu75DPjlfmqRUlOnPYhckF0hBA-LqMx7"); */
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryUejYek0zCyyO9br59rWmuAMMXkGrRc8Qr19RXjEN6ITpBtk");
   background-repeat: no-repeat;
   background-size: cover;
 
+}
+h3{
+  text-align: center;
+  color: blue;
+  font-size: 30px;
+}
+h2{
+  text-align: center;
+  color: blue;
+  font-size: 40px;
+}
+.kir{
+font-size: 50px;
+  color:blue;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  float: left;
 }
