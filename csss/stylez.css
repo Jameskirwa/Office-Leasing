@@ -1,0 +1,227 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: rgb(255, 255, 255);
+}
+
+#ofisi {
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    width: 500px;
+    height: 500px;
+    animation: slide 20s infinite;
+    background-size: cover;
+    margin: auto;
+}
+
+@-webkit-keyframes slide {
+    0% {
+        background: url(../imgs/moffc.jpg);
+        background-size: cover;
+    }
+
+    25% {
+        background: url(../imgs/fff.jpg);
+        background-size: cover;
+    }
+
+    50% {
+        background: url(../imgs/moffs.jpg);
+        background-size: cover;
+    }
+
+    75% {
+        background: url(../imgs/moffic.jpg);
+        background-size: cover;
+    }
+
+    100% {
+        background: url(../imgs/mof.jpg);
+        background-size: cover;
+    }
+}
+
+h1 {
+    text-align: center;
+}
+
+#text1 {
+    float: right;
+    width: 600px;
+    margin: auto;
+}
+
+#office1 {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: rgb(211, 211, 211);
+    border-radius: 20px;
+    padding: 15px;
+    margin: 50;
+    shadow: auto;
+}
+
+#text {
+    margin: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 0px;
+}
+
+header {
+    background: #f7fcfb00;
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    float: left;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#ofisy {
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    width: 400px;
+    height: 500px;
+    animation: slideranimation 20s infinite;
+    background-size: cover;
+    margin: auto;
+}
+
+@-webkit-keyframes slideranimation {
+    0% {
+        background: url(../imgs/of.jpg);
+        background-size: cover;
+    }
+
+    25% {
+        background: url(../imgs/off.jpg);
+        background-size: cover;
+    }
+
+    50% {
+        background: url(../imgs/offi.jpg);
+        background-size: cover;
+    }
+
+    75% {
+        background: url(../imgs/offff.jpg);
+        background-size: cover;
+    }
+
+    100% {
+        background: url(../imgs/offf.jpg);
+        background-size: cover;
+    }
+}
+
+#text2 {
+    float: left;
+    width: 600px;
+    margin: auto;
+}
+
+#office2 {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: rgb(211, 211, 211);
+    border-radius: 20px;
+    padding: 15px;
+    margin: 50;
+}
+
+#ofis {
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    width: 300px;
+    height: 400px;
+    animation: slider 20s infinite;
+    background-size: cover;
+    margin: auto;
+}
+
+@-webkit-keyframes slider {
+    0% {
+        background: url(../imgs/office.jpg);
+        background-size: cover;
+    }
+
+    25% {
+        background: url(../imgs/offic.jpg);
+        background-size: cover;
+    }
+
+    50% {
+        background: url(../imgs/cff.jpg);
+        background-size: cover;
+    }
+
+    75% {
+        background: url(../imgs/chhh.jpg);
+        background-size: cover;
+    }
+
+    100% {
+        background: url(../imgs/coff.jpg);
+        background-size: cover;
+    }
+}
+
+#office3 {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: rgb(211, 211, 211);
+    border-radius: 20px;
+    padding: 15px;
+    margin: 50;
+}
+
+#text3 {
+    float: left;
+    width: 600px;
+    margin: auto;
+}
+
+.loco {
+    font-style: italic;
+}
+
+#amen {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: auto;
+}
+
+h2 {
+    font-family: 'Akronim', cursive;
+}
+
+p {
+    font-family: 'EB Garamond', serif;
+}
+
+h1 {
+    font-family: 'Righteous', cursive;
+}
+
+pre {
+    font-family: 'Macondo Swash Caps', cursive;
+}
+
+h4 {
+    font-family: 'Comfortaa', cursive;
+}
+
+ul {
+    font-family: 'Cute Font', cursive;
+    font-size: 20px;
+}
+
+h3 {
+    font-family: 'Lobster Two', cursive;
+}
