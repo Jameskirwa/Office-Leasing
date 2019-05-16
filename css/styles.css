@@ -169,7 +169,3 @@ h2{
     margin-left:36%;
 }
 
-@media screen and(max-width:1059px){
-    .container{
-        width:100%;
-    }
