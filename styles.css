@@ -1,9 +1,12 @@
 body{
 
+
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryUejYek0zCyyO9br59rWmuAMMXkGrRc8Qr19RXjEN6ITpBtk");
   background-repeat: no-repeat;
   background-size: cover;
 
 }
+
 h5{
   font-family: 'Montserrat Alternates', sans-serif;
   font-size: 70px;
@@ -108,4 +111,23 @@ margin-left: 35%;
 }
 #foot {
   background-color: deepskyblue;
+  
+h3{
+  text-align: center;
+  color: blue;
+  font-size: 30px;
+}
+h2{
+  text-align: center;
+  color: blue;
+  font-size: 40px;
+}
+.kir{
+font-size: 50px;
+  color:blue;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  float: left;
 }
