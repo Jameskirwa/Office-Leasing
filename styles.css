@@ -1,6 +1,64 @@
 body{
-  /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6I_Mn9oZJW-ATzG2Dyu75DPjlfmqRUlOnPYhckF0hBA-LqMx7"); */
+
   background-repeat: no-repeat;
   background-size: cover;
 
+}
+h5{
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 70px;
+}
+p{
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 70px;
+}
+
+.text{
+  display: flex;
+  flex-direction: row;
+  padding-top: 5%;
+
+
+}
+.mission{
+  margin-left: 10%;
+
+}
+.vision{
+  margin-left: 10%;
+}
+.corevalues{
+  margin-left: 10%;
+}
+.m{
+  background-color:deepskyblue;
+}
+.images{
+padding-top:2%;
+margin-left: 35%;
+}
+.skyview{
+  display:flex;
+  flex-direction: row;
+  padding-top: 5%
+}
+.img1{
+  margin-left: 15%;
+}
+.suite1{
+  margin-left: 8%;
+  padding-top:2%;
+}
+.springfield{
+  display:flex;
+  flex-direction: row;
+  padding-top: 8%;
+}
+
+.suite2{
+  margin-left:15%;
+  padding-top: 8%;
+}
+.img2{
+  margin-left:5%;
 }
