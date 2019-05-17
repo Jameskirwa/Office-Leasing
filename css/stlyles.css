@@ -8,19 +8,6 @@
     padding-top: 15%;   
 
 }
-header {
-    background:#f7fcfb00;
-    width:50px;
-    height:50px;
-    float:left;
-}
-#imgs {
-    width:5px;
-    height:5px;
-    float:left;
-    padding:5px;
-    border-radius:10px;
-}
 
 .officesuites{
     display: flex;
